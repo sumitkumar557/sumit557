@@ -12,7 +12,7 @@ hello world ,this is my profile
 
 ###
 
-<p> align="left"<br>📚 I'm currently learning about dsa <br>🎯 Goals: become a brilient software engineer<br></p>
+<p><br>📚 I'm currently learning about dsa <br>🎯 Goals: become a brilient software engineer<br></p>
 
 ###
 
