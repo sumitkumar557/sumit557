@@ -1,6 +1,6 @@
 # sumit557
 hello world ,this is my profile
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 >Hey 👋 What's up?</h1>
 
 ###
 
